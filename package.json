@@ -1,0 +1,24 @@
+{
+    "name": "com.strangeman.cysharp",
+    "version": "1.0.0",
+    "keywords": [
+      "extension",
+      "attribute",
+      "editor",
+      "design-pattern",
+      "tool-support",
+      "events",
+      "messaging",
+      "tasks"
+    ],
+    "category": "utilities, cysharp, events, tasks",
+    "displayName": "Strangeman Cysharp",
+    "description": "Strangeman.Cysharp: this package provides an infrastructure layer for Cysharp's MessagePipe and some useful classes utilizing UniTask.",
+    "documentationUrl": "https://github.com/miclede/Strangeman.Cysharp",
+    "author": {
+      "name": "Strangeman Games",
+      "email": "michael@strangeman.games",
+      "url": "https://github.com/miclede"
+    }
+  }
+  
